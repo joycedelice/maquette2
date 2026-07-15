@@ -1,0 +1,18 @@
+.container{
+    background-color: orange;
+    display: flex;
+    height: 444px;
+}
+.nav{
+    flex: 1;
+}
+.main{
+    flex: 3;
+}
+@media(max-width:600px){
+    .container{
+        flex-direction: column;
+        flex: 1;
+        
+    }
+}

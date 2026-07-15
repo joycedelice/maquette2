@@ -1,0 +1,13 @@
+aside{
+    background-color: violet;
+    text-align: center;
+    color: white;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    flex: 1;
+    height: 100%;
+    border: 3px solid orange;
+}
