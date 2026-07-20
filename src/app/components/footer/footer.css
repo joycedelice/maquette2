@@ -4,16 +4,7 @@ footer{
     height: 100px;
     color: white;
     width: 100%;
-    text-transform: uppercase;
    
     font-weight: bold;
 
-}
-@media(max-width:900px){
-    footer{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-    }
 }
